@@ -1,5 +1,5 @@
 """
-Funções - def em Python (parte 1)
+Funções - def em Python (parte 2)
 """
 
 # cria a funcao
