@@ -25,6 +25,15 @@ print(f"Adicionando zeros à esquerda, ficando com 10 casas decimais:\n{n1:0>10}
 
 
 nome = "Beatriz Nascimento"
-print("Imprimindo strings de formas diferentes:\n")
-print("Forma 1:\n{}".format(nome))
+print(50 - len(nome))
+
 print(f"{nome:#^50}")
+
+nome_formatado = "{}".format(nome)
+print("Forma 1: ", nome_formatado)
+
+nome_formatado_2 = "{:@>31}".format(nome)
+print("Forma 2: ", nome_formatado_2)
+
+nome_formatado_3 = "{:@>32}".format(nome)
+print("Forma 3: ", nome_formatado_3)
