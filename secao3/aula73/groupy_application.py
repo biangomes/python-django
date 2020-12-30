@@ -2,17 +2,18 @@ from itertools import groupby
 
 
 alunos_matriculados = [
-    {"nome": "Ana Kesia do Nascimento", "status": 0.94},
-    {"nome": "Claudiane Magalhães", "status": 0.23},
-    {"nome": "Daniel Garzon", "status": 0.60},
-    {"nome": "Daíne Nogueira", "status": 0.94},
-    {"nome": "Eder Silva dos Santos Júnior", "status": 0.23},
-    {"nome": "Eduardo Goes", "status": 0.91},
-    {"nome": "Fabricia Braga", "status": 0.23},
-    {"nome": "Helmut Muniz", "status": 0.23},
-    {"nome": "Hermann Duarte", "status": 0.23},
-    {"nome": "Ian Ferreira", "status": 0.45},
+   {"nome": "Ana", "status": 0.94},
+   {"nome": "Clarice", "status": 0.23},
+   {"nome": "Danilo", "status": 0.60},
+   {"nome": "Danara", "status": 0.94},
+   {"nome": "Edlailson", "status": 0.23},
+   {"nome": "Edu", "status": 0.91},
+   {"nome": "Fabricio", "status": 0.23},
+   {"nome": "Hiago", "status": 0.23},
+   {"nome": "Hugo", "status": 0.23},
+   {"nome": "Igor", "status": 0.45},
 ]
+
 ordena = lambda item: item["status"]
 alunos_matriculados.sort(key=ordena)
 alunos_agrupados = groupby(alunos_matriculados, ordena)
