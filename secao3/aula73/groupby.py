@@ -15,5 +15,10 @@ alunos = [
     {'nome': 'Luisa', 'nota': 'B'},
 ]
 
-alunos.sort(key=lambda item: item['nota'])
-print(alunos)
+ordena = lambda item: item["status"]
+alunos.sort(key=ordena)
+alunos_agrupados = groupby(alunos, ordena)
+
+for agrupamentos, valores_agrupados in alunos_agrupados:
+    print(f'Agrupamento: {agrupamentos}')
+    print(f'{len(valores_agrupados)}')
