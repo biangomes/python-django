@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ddce114-3b2e-4086-a414-4a97b3283dac" name="Default Changelist" comment="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 05/03/2021">
+      <change afterPath="$PROJECT_DIR$/secao2/projeto/controle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao2/projeto/estoque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao3/aula89/funcoesdecoradorasedecoradores.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ndG4MwMh7WSdnAtvP4JzyMfjOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Estagio2/emissao_certificados" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.estoque">
+    <configuration name="controle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao2/projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao2/projeto/controle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estoque" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao2/projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao2/projeto/estoque.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ler_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3/aula87" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3/aula87/ler_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3/aula87" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3/aula87/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pdftoword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/OneDrive - SENAC/Projetos/Python/Automating" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/OneDrive - SENAC/Projetos/Python/Automating/pdftoword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.estoque" />
+        <item itemvalue="Python.pdftoword" />
+        <item itemvalue="Python.controle" />
+        <item itemvalue="Python.ler_json" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ddce114-3b2e-4086-a414-4a97b3283dac" name="Default Changelist" comment="" />
+      <created>1611712363407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611712363407</updated>
+      <workItem from="1611712367185" duration="533000" />
+      <workItem from="1611712922985" duration="6006000" />
+      <workItem from="1611754674105" duration="1347000" />
+      <workItem from="1611795896804" duration="4000" />
+      <workItem from="1611798149550" duration="34000" />
+      <workItem from="1614218643296" duration="2826000" />
+      <workItem from="1614281776593" duration="6073000" />
+      <workItem from="1614297360352" duration="1656000" />
+      <workItem from="1614313066605" duration="3464000" />
+      <workItem from="1614610792470" duration="4893000" />
+      <workItem from="1614622458985" duration="3544000" />
+      <workItem from="1614636232347" duration="1233000" />
+      <workItem from="1614650438511" duration="48000" />
+      <workItem from="1614697748578" duration="622000" />
+      <workItem from="1614718184623" duration="5738000" />
+      <workItem from="1614781541369" duration="1246000" />
+      <workItem from="1614784155885" duration="3642000" />
+      <workItem from="1614800861375" duration="229000" />
+      <workItem from="1614892421418" duration="48000" />
+      <workItem from="1614971428331" duration="5035000" />
+      <workItem from="1615221979143" duration="527000" />
+      <workItem from="1615225764200" duration="381000" />
+      <workItem from="1615250787435" duration="310000" />
+      <workItem from="1615252722872" duration="1749000" />
+      <workItem from="1615263606932" duration="999000" />
+      <workItem from="1615298322903" duration="925000" />
+      <workItem from="1615400380544" duration="89000" />
+    </task>
+    <task id="LOCAL-00001" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;">
+      <created>1614287448304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614287448304</updated>
+    </task>
+    <task id="LOCAL-00002" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;">
+      <created>1614624224328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614624224328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 02/03/2021">
+      <created>1614718619496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614718619496</updated>
+    </task>
+    <task id="LOCAL-00004" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 02/03/2021">
+      <created>1614722870335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614722870336</updated>
+    </task>
+    <task id="LOCAL-00005" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 05/03/2021">
+      <created>1614971768167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614971768167</updated>
+    </task>
+    <task id="LOCAL-00006" summary="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 05/03/2021">
+      <created>1614976288355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614976288355</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1615222025565</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615222025565</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;" />
+    <MESSAGE value="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 02/03/2021" />
+    <MESSAGE value="estudos do curso &quot;Curso de Python 3 do Básico ao Avançado (com projetos reais)&quot;&#10;&#10;---&#10;&#10;Atualizações de estudo na data 05/03/2021" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_django$calculos__1_.coverage" NAME="calculos Coverage Results" MODIFIED="1614787063713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula85" />
+    <SUITE FILE_PATH="coverage/python_django$validacpf_solucao.coverage" NAME="validacpf_solucao Coverage Results" MODIFIED="1614612688731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula48-SOLUCAO" />
+    <SUITE FILE_PATH="coverage/python_django$pdftoword.coverage" NAME="pdftoword Coverage Results" MODIFIED="1615251083217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive - SENAC/Projetos/Python/Automating" />
+    <SUITE FILE_PATH="coverage/python_django$levantandoexcecoes.coverage" NAME="levantandoexcecoes Coverage Results" MODIFIED="1614721326885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula82" />
+    <SUITE FILE_PATH="coverage/python_django$ler_json.coverage" NAME="ler_json Coverage Results" MODIFIED="1614976067459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula87" />
+    <SUITE FILE_PATH="coverage/python_django$exercicio_somandoduaslistas.coverage" NAME="exercicio_somandoduaslistas Coverage Results" MODIFIED="1614623817467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula73" />
+    <SUITE FILE_PATH="coverage/python_django$tratandoexcecoes.coverage" NAME="tratandoexcecoes Coverage Results" MODIFIED="1614720577397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula81" />
+    <SUITE FILE_PATH="coverage/python_django$controle.coverage" NAME="controle Coverage Results" MODIFIED="1615222259122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/projeto" />
+    <SUITE FILE_PATH="coverage/python_django$tiraduvidas_enumerate.coverage" NAME="tiraduvidas_enumerate Coverage Results" MODIFIED="1614287190039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula39" />
+    <SUITE FILE_PATH="coverage/python_django$modulosproprios.coverage" NAME="modulosproprios Coverage Results" MODIFIED="1614785170633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula85" />
+    <SUITE FILE_PATH="coverage/python_django$main.coverage" NAME="main Coverage Results" MODIFIED="1614971605755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula86" />
+    <SUITE FILE_PATH="coverage/python_django$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1614975241259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula87" />
+    <SUITE FILE_PATH="coverage/python_django$contadores.coverage" NAME="contadores Coverage Results" MODIFIED="1614313331969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula45-DESAFIO" />
+    <SUITE FILE_PATH="coverage/python_django$zip_e_zip_longest.coverage" NAME="zip_e_zip_longest Coverage Results" MODIFIED="1614623645307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula72" />
+    <SUITE FILE_PATH="coverage/python_django$count.coverage" NAME="count Coverage Results" MODIFIED="1614718327817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula75" />
+    <SUITE FILE_PATH="coverage/python_django$aplicativo.coverage" NAME="aplicativo Coverage Results" MODIFIED="1614786592914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula85" />
+    <SUITE FILE_PATH="coverage/python_django$operacao_ternaria.coverage" NAME="operacao_ternaria Coverage Results" MODIFIED="1614299123827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula43" />
+    <SUITE FILE_PATH="coverage/python_django$estoque.coverage" NAME="estoque Coverage Results" MODIFIED="1615299235727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/projeto" />
+    <SUITE FILE_PATH="coverage/python_django$iterandostringscomwhile.coverage" NAME="iterandostringscomwhile Coverage Results" MODIFIED="1614220244838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula35" />
+    <SUITE FILE_PATH="coverage/python_django$mapeamento.coverage" NAME="mapeamento Coverage Results" MODIFIED="1614718548396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula80" />
+    <SUITE FILE_PATH="coverage/python_django$desempacotamento_de_lista.coverage" NAME="desempacotamento_de_lista Coverage Results" MODIFIED="1614287889300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula40" />
+    <SUITE FILE_PATH="coverage/python_django$tryeexceptocomocondicional.coverage" NAME="tryeexceptocomocondicional Coverage Results" MODIFIED="1614722505884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula83" />
+    <SUITE FILE_PATH="coverage/python_django$modulospadrao.coverage" NAME="modulospadrao Coverage Results" MODIFIED="1614781733553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao3/aula84" />
+    <SUITE FILE_PATH="coverage/python_django$valida_cpf.coverage" NAME="valida_cpf Coverage Results" MODIFIED="1614316383660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula47-DESAFIO" />
+    <SUITE FILE_PATH="coverage/python_django$splitjoinenumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1614285878010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secao2/aula39" />
+  </component>
+</project>
